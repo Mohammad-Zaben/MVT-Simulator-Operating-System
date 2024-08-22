@@ -24,7 +24,6 @@ To run this project, ensure you have the following installed:
 2. Download ready.txt and job.txt
 3. run the project and set files path
 
-<img src="https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/03dc5b30-4269-4a23-b006-5e584a229044" alt="" width=800 > 
 
 ![first](https://github.com/user-attachments/assets/2c3d5de0-a048-49b1-8743-c2797b8dc7cc)
 ![second](https://github.com/user-attachments/assets/8cddbecf-67b9-43ce-966a-6a1eff383ed3)
